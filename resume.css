@@ -102,23 +102,20 @@ header .profile-image:hover {
   border-color: black;
 }
 
-ul.skills {
+.style {
   padding: 0;
   text-align: center;
 }
 
-.skills li {
+.style {
   border-radius: 6px;
   display: inline-block;
-  background: #ff9904;
+  background: gray;
   color: white;
   padding: 5px 10px;
   margin: 2px;
 }
 
-.skills li:nth-child(odd) {
-  background: gray;
-}
 
 footer {
   width: 100%;
